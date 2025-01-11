@@ -1,0 +1,7 @@
+READ ME
+
+1) Connect PAWS to computer via USB
+2) type python start.py
+   This program reads Arduino output from serial monitor and saves to .txt files
+3) In another terminal window type "python chart.py"
+   This program reads sensor values from .txt files and charts them using Mat PlotLib
